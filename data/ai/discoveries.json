@@ -1,0 +1,110 @@
+[
+  {
+    "id": "verbatim-baptist",
+    "unit": "baptist-repent",
+    "pin": "lk",
+    "kind": "Copied word for word",
+    "title": "Two authors, one paragraph",
+    "teaser": "Matthew and Luke give John the Baptist's tirade in Greek that is nearly identical, word for word, in a passage Mark doesn't have.",
+    "body": "Start with {mt 3:7 Γεννήματα ἐχιδνῶν} (*gennēmata echidnōn*, \"brood of vipers\") and keep reading. For more than sixty words Matthew and Luke agree in vocabulary, grammar and word order, with a run of 24 identical words. Even the tiny differences look like editing: Matthew's singular {mt 3:8 καρπὸν ἄξιον} (\"fruit worthy\") against Luke's plural {lk 3:8 καρποὺς ἀξίους} (\"fruits worthy\"), and \"do not presume to say\" against Luke's {lk 3:8 μὴ ἄρξησθε λέγειν} (\"do not begin to say\"). Oral retelling rarely produces agreement this exact. It points to a shared *written* Greek source. Because Mark lacks the passage, the classic explanation is a lost collection of sayings that scholars call **Q** (from German *Quelle*, \"source\"). The main alternative, the Farrer hypothesis, says Luke simply copied Matthew."
+  },
+  {
+    "id": "angry-jesus",
+    "unit": "leper",
+    "pin": "mk",
+    "kind": "A word that disappears",
+    "title": "Was Jesus angry?",
+    "teaser": "The Greek edition used here has Mark's Jesus \"becoming angry\" before he heals a leper. Matthew and Luke have no emotion at all.",
+    "body": "Most English Bibles read \"moved with compassion\" in Mark 1:41. But one important early Greek manuscript (Codex Bezae) and several Old Latin translations read {mk 1:41 ὀργισθεὶς} (*orgistheis*, \"becoming angry\"), and the SBL Greek New Testament prints it. Textual critics often prefer the harder reading, on the logic that a scribe is more likely to soften an angry Jesus than to invent one. Two verses later Mark adds that Jesus {mk 1:43 ἐμβριμησάμενος αὐτῷ εὐθὺς ἐξέβαλεν αὐτόν} (\"sternly warning him (literally, snorting at him), immediately drove him out\"). Now compare the parallels: Matthew and Luke reproduce the healing almost word for word ({mt 8:3 ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ}) but drop *both* emotional verbs. Whatever Mark originally wrote, his Jesus has a rough edge that the later Gospels sand off. Readers of English rarely see it."
+  },
+  {
+    "id": "struck-you",
+    "unit": "sanhedrin",
+    "pin": "lk",
+    "kind": "A minor agreement",
+    "title": "Five words Mark doesn't have",
+    "teaser": "At Jesus' trial, Matthew and Luke independently add the same five Greek words to Mark. Or did they?",
+    "body": "In Mark the guards blindfold Jesus, beat him and say just {mk 14:65 Προφήτευσον} (\"Prophesy!\"). Matthew and Luke both complete the taunt with the same five words: {mt 26:68 τίς ἐστιν ὁ παίσας σε} and {lk 22:64 τίς ἐστιν ὁ παίσας σε} (*tis estin ho paisas se*, \"Who is it that struck you?\"). If, as most scholars think, Matthew and Luke each used Mark *without knowing each other*, how did they make the identical addition? This is the most famous of the **minor agreements**, places where Matthew and Luke agree against Mark. Defenders of the Two-Source theory suggest a coincidence, oral tradition, or an early scribe harmonizing the texts. Supporters of the Farrer theory see it as evidence that Luke had read Matthew. Our alignment finds hundreds of smaller agreements like it, and you can browse them passage by passage."
+  },
+  {
+    "id": "mark-ending",
+    "unit": "empty-tomb",
+    "pin": "mk",
+    "kind": "A textual variant",
+    "title": "The Gospel that ends mid-sentence",
+    "teaser": "In our oldest manuscripts, Mark stops with frightened women and the word \"for\". Everything after was added later.",
+    "body": "The two oldest complete Bibles, Codex Sinaiticus and Codex Vaticanus (4th century), end Mark at 16:8: {mk 16:8 οὐδενὶ οὐδὲν εἶπαν ἐφοβοῦντο γάρ} (\"they said nothing to anyone, for they were afraid\"). Ending a sentence, let alone a book, on γάρ (*gar*, \"for\") is startling in Greek. Later scribes supplied endings. A one-sentence \"shorter ending\" ({mk 16:8 Πάντα δὲ τὰ παρηγγελμένα}) and the familiar \"longer ending\" (16:9–20) both appear in this edition inside double brackets, the editors' sign that they are not original. In this site those words carry a dashed outline. Notice that the longer ending reads like a digest of the other Gospels: an appearance to Mary Magdalene ({mk 16:9 ἐφάνη πρῶτον Μαρίᾳ τῇ Μαγδαληνῇ}), two travelers in the country, a commission to preach. Matthew and Luke, following Mark, each write their own resurrection appearances, as if they too received a Mark that stopped at 16:8."
+  },
+  {
+    "id": "temple-early",
+    "unit": "temple-cleansing",
+    "pin": "jn",
+    "kind": "A story moved",
+    "title": "John's biggest rearrangement",
+    "teaser": "The other three put the overturning of the tables in Jesus' final week. John puts it in chapter 2.",
+    "body": "On the map, follow the gold ribbon that runs from the *end* of the Synoptic Gospels to the *beginning* of John. In Matthew, Mark and Luke, the temple incident triggers the plot to kill Jesus. John places it at the start of the ministry and gives it a different trigger for the arrest (the raising of Lazarus). The wording differs too. Only John has the whip, {jn 2:15 φραγέλλιον ἐκ σχοινίων} (\"a whip of cords\"), the cattle and sheep, and the words {jn 2:16 μὴ ποιεῖτε τὸν οἶκον τοῦ πατρός μου οἶκον ἐμπορίου} (\"stop making my Father's house a house of trade\"). The Synoptics share a scriptural quotation instead (\"a house of prayer… a den of robbers\"). Scholars debate whether there were two incidents, whether John moved it for theological reasons, or whether John preserves the earlier chronology. The data shows how little wording John shares with the others here."
+  },
+  {
+    "id": "lords-prayer",
+    "unit": "lords-prayer",
+    "pin": "lk",
+    "kind": "Expanded or condensed",
+    "title": "The shorter Lord's Prayer",
+    "teaser": "Luke's version is noticeably shorter than Matthew's, and the familiar ending is in neither Gospel's oldest manuscripts.",
+    "body": "Matthew opens {mt 6:9 Πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς} (\"Our Father in the heavens\"). Luke has just {lk 11:2 Πάτερ} (*Pater*, \"Father\"). Luke also lacks \"your will be done\" and \"deliver us from the evil one\". Yet where the two overlap, the Greek is strikingly close. Both use the rare word ἐπιούσιον (*epiousion*), traditionally \"daily\", a word almost unknown elsewhere in Greek, whose meaning is still debated. Many scholars think Luke's shorter form is closer to the original and that Matthew's reflects liturgical use. And the doxology Protestants know (\"for thine is the kingdom, the power and the glory\") is absent from both in the modern critical text. Switch the variant layer to the King James Greek in Matthew 6:13 to watch it appear."
+  },
+  {
+    "id": "call-me-good",
+    "unit": "rich-young-man",
+    "pin": "mt",
+    "kind": "An awkward line, reworded",
+    "title": "\"Why do you call me good?\"",
+    "teaser": "In Mark, Jesus seems to deny that he is good. Matthew rewrites the question.",
+    "body": "In Mark a man runs up and calls Jesus \"good teacher\". Jesus replies {mk 10:18 Τί με λέγεις ἀγαθόν} (\"Why do you call me good? No one is good but God alone\"). Luke keeps this almost exactly. Matthew changes it to {mt 19:17 Τί με ἐρωτᾷς περὶ τοῦ ἀγαθοῦ} (\"Why do you ask me about the good?\"), and in his version the man calls Jesus \"teacher\" and asks what good *deed* he must do. The rest of the passage tracks Mark closely, which makes the change stand out. Under Markan priority, Matthew is smoothing a line that could be read as Jesus disclaiming goodness. Under the Griesbach hypothesis, Mark would have to be roughening Matthew, which most scholars find less likely. Small edits like this one are a main reason Markan priority is the majority view."
+  },
+  {
+    "id": "last-words",
+    "unit": "death",
+    "pin": "mk",
+    "kind": "Four different moments",
+    "title": "Four sets of last words",
+    "teaser": "Jesus' final words differ in every Gospel, and so does the verb for his death.",
+    "body": "Mark and Matthew give only a cry of abandonment, kept in Aramaic (Matthew gives a more Hebrew form): {mk 15:34 Ἐλωῒ ἐλωῒ λεμὰ σαβαχθάνι} (\"My God, my God, why have you forsaken me?\", from Psalm 22). Luke does not include it. His Jesus dies quoting Psalm 31 in trust: {lk 23:46 Πάτερ εἰς χεῖράς σου παρατίθεμαι τὸ πνεῦμά μου} (\"Father, into your hands I commit my spirit\"). John has a single word, {jn 19:30 Τετέλεσται} (*tetelestai*, \"It is finished\" or \"It has been accomplished\"). Even the death is narrated differently: Mark's {mk 15:37 ἐξέπνευσεν} (\"he breathed out\"), Matthew's {mt 27:50 ἀφῆκεν τὸ πνεῦμα} (\"he let go of his spirit\"), John's {jn 19:30 παρέδωκεν τὸ πνεῦμα} (\"he handed over his spirit\"). Each wording fits its Gospel's portrait: anguish, trust, completion."
+  },
+  {
+    "id": "adulteress",
+    "unit": "adulteress",
+    "pin": "jn",
+    "kind": "A textual variant",
+    "title": "The story that wandered",
+    "teaser": "\"Let him who is without sin cast the first stone\" is missing from John's earliest manuscripts.",
+    "body": "John 7:53–8:11 is one of the best-loved stories in the Gospels, and almost certainly not part of the original John. It is absent from the earliest papyri and from Sinaiticus and Vaticanus. In later manuscripts it appears in different places: after John 7:52, at the end of John, and in some cases after *Luke* 21:38. Its vocabulary is unlike John's elsewhere, and some scholars note it reads more like Luke. Modern editions print it in double brackets, which is why every word here, from {jn 8:6 τῷ δακτύλῳ ἔγραφεν εἰς τὴν γῆν} (\"he was writing with his finger on the ground\") to {jn 8:7 Ὁ ἀναμάρτητος ὑμῶν} (\"the one of you without sin\"), carries a dashed outline. Many scholars nonetheless think it preserves a genuinely early tradition about Jesus that circulated before it found a home in John."
+  },
+  {
+    "id": "could-not",
+    "unit": "nazareth",
+    "pin": "mt",
+    "kind": "An awkward line, reworded",
+    "title": "\"He could not\" becomes \"he did not\"",
+    "teaser": "Mark says Jesus *could not* do miracles in his hometown. Matthew's version is more careful.",
+    "body": "Mark says it bluntly: {mk 6:5 οὐκ ἐδύνατο ἐκεῖ ποιῆσαι οὐδεμίαν δύναμιν} (\"he was not able to do any mighty work there\"), except for healing a few sick people. Matthew turns inability into choice: {mt 13:58 οὐκ ἐποίησεν ἐκεῖ δυνάμεις πολλὰς} (\"he did not do many mighty works there\"), and he attaches the cause directly: \"because of their unbelief\". Another edit sits a few verses earlier. Mark's townsfolk ask {mk 6:3 οὐχ οὗτός ἐστιν ὁ τέκτων} (\"Isn't this the carpenter?\"), the only place in the Gospels that calls Jesus himself a carpenter. Matthew has {mt 13:55 ὁ τοῦ τέκτονος υἱός} (\"the carpenter's son\"). Luke, who moves the whole scene to the start of Jesus' ministry, has {lk 4:22 υἱός ἐστιν Ἰωσὴφ οὗτος} (\"Is this not Joseph's son?\")."
+  },
+  {
+    "id": "great-catch",
+    "unit": "call-disciples",
+    "pin": "jn",
+    "kind": "A story moved",
+    "title": "The same miracle, at opposite ends",
+    "teaser": "Luke's miraculous catch of fish happens at Peter's call. John's happens after the resurrection, and the nets behave differently.",
+    "body": "Luke 5 and John 21 share a remarkable outline: a night of catching nothing, Jesus telling Peter where to cast, a catch too big to haul, and Peter's dramatic response. But they sit at opposite ends of the story, as the long ribbon across the map shows. Even the details answer each other. In Luke {lk 5:6 διερρήσσετο δὲ τὰ δίκτυα αὐτῶν} (\"their nets were beginning to tear\"). In John, with 153 large fish, {jn 21:11 οὐκ ἐσχίσθη τὸ δίκτυον} (\"the net was not torn\"). Most scholars think one tradition lies behind both. They disagree on whether it began as a call story that John turned into a resurrection appearance, or the reverse. Mark and Matthew give only the call itself, without the catch."
+  },
+  {
+    "id": "poor-in-spirit",
+    "unit": "beatitudes",
+    "pin": "lk",
+    "kind": "Expanded or condensed",
+    "title": "Blessed are the poor (in spirit?)",
+    "teaser": "Matthew's best-known Beatitude has two words that Luke's does not.",
+    "body": "Matthew: {mt 5:3 Μακάριοι οἱ πτωχοὶ τῷ πνεύματι} (\"Blessed are the poor *in spirit*\"). Luke: {lk 6:20 Μακάριοι οἱ πτωχοί} (\"Blessed are the poor\"). Luke's are addressed to \"you\" and are followed by matching woes against the rich, which Matthew lacks entirely. Matthew has nine Beatitudes to Luke's four, and his promise is \"the kingdom of the heavens\", his habitual phrase, where Luke has \"the kingdom of God\". Did Matthew spiritualize a saying about literal poverty, or did Luke sharpen a saying about humility into social reversal? Both answers have defenders. The Greek shows that the same core sayings were shaped to fit each Gospel's emphasis."
+  }
+]

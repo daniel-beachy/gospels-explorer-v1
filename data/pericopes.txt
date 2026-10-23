@@ -1,0 +1,237 @@
+# Parallel-passage table for the four Gospels.
+# Authored for this project, following the conventional pericope divisions of
+# Gospel synopses (Aland, Synopsis Quattuor Evangeliorum; Throckmorton) and the
+# Eusebian Canons. Every verse of each Gospel is assigned to exactly one unit,
+# so passages that appear more than once in a synopsis ("doublets") are listed
+# only at their primary location.
+# Format: id | section | title | Matthew | Mark | Luke | John
+# Ranges: "3:1-6", "9:35-10:16", multiple ranges separated by ";".
+#
+prologue-luke | beginnings | Luke's prologue | | | 1:1-4 |
+prologue-john | beginnings | In the beginning was the Word | | | | 1:1-18
+genealogy | beginnings | The genealogy of Jesus | 1:1-17 | | 3:23-38 |
+john-birth-foretold | beginnings | The birth of John foretold | | | 1:5-25 |
+annunciation | beginnings | The annunciation to Mary | | | 1:26-38 |
+magnificat | beginnings | Mary visits Elizabeth: the Magnificat | | | 1:39-56 |
+john-born | beginnings | Birth of John: the Benedictus | | | 1:57-80 |
+birth-matthew | beginnings | Joseph's dream and the birth of Jesus | 1:18-25 | | |
+birth-luke | beginnings | The birth in Bethlehem and the shepherds | | | 2:1-20 |
+presentation | beginnings | Circumcision and presentation in the temple | | | 2:21-40 |
+magi | beginnings | The visit of the magi | 2:1-12 | | |
+flight-egypt | beginnings | Flight to Egypt and return to Nazareth | 2:13-23 | | |
+boy-temple | beginnings | The boy Jesus in the temple | | | 2:41-52 |
+baptist-appears | beginnings | John the Baptist appears | 3:1-6 | 1:1-6 | 3:1-6 | 1:19-23
+baptist-repent | beginnings | John's call to repentance | 3:7-10 | | 3:7-9 |
+baptist-ethics | beginnings | John's answers to the crowds | | | 3:10-14 |
+baptist-messiah | beginnings | John announces one who is coming | 3:11-12 | 1:7-8 | 3:15-18 | 1:24-28
+baptism | beginnings | The baptism of Jesus | 3:13-17 | 1:9-11 | 3:21-22 | 1:29-34
+temptation | beginnings | The temptation in the wilderness | 4:1-11 | 1:12-13 | 4:1-13 |
+first-disciples-john | beginnings | The first disciples (John's version) | | | | 1:35-51
+cana | john | Water into wine at Cana | | | | 2:1-12
+nicodemus | john | Nicodemus and the new birth | | | | 2:23-3:21
+baptist-final | john | John's final testimony | | | | 3:22-36
+samaritan-woman | john | The woman at the well | | | | 4:1-42
+galilee-begins | galilee | Jesus begins preaching in Galilee | 4:12-17 | 1:14-15 | 4:14-15 | 4:43;4:45
+nazareth | galilee | Rejected at Nazareth | 13:53-58 | 6:1-6 | 4:16-30 | 4:44
+call-disciples | galilee | The call of the fishermen and the great catch | 4:18-22 | 1:16-20 | 5:1-11 | 21:1-14
+capernaum-synagogue | galilee | Authority in the Capernaum synagogue | 7:28-29 | 1:21-28 | 4:31-37 |
+peters-mother-in-law | galilee | Peter's mother-in-law | 8:14-15 | 1:29-31 | 4:38-39 |
+evening-healings | galilee | Healings at sundown | 8:16-17 | 1:32-34 | 4:40-41 |
+preaching-tour | galilee | A preaching tour of Galilee | 4:23-25 | 1:35-39 | 4:42-44 |
+leper | galilee | The cleansing of a leper | 8:1-4 | 1:40-45 | 5:12-16 |
+paralytic | galilee | The paralytic let down through the roof | 9:1-8 | 2:1-12 | 5:17-26 |
+levi | galilee | The call of Levi / Matthew | 9:9-13 | 2:13-17 | 5:27-32 |
+fasting-question | galilee | The question about fasting | 9:14-17 | 2:18-22 | 5:33-39 |
+grain-sabbath | galilee | Plucking grain on the Sabbath | 12:1-8 | 2:23-28 | 6:1-5 |
+withered-hand | galilee | The man with the withered hand | 12:9-14 | 3:1-6 | 6:6-11 |
+crowds-by-sea | galilee | Crowds healed by the sea | 12:15-21 | 3:7-12 | 6:17-19 |
+twelve-chosen | galilee | The Twelve are chosen | 10:1-4 | 3:13-19 | 6:12-16 |
+beatitudes | sermon | The Beatitudes | 5:1-12 | | 6:20-23 |
+woes-rich | sermon | Woes to the rich | | | 6:24-26 |
+salt-light | sermon | Salt and light | 5:13-16 | 9:49-50 | 14:34-35 |
+law-prophets | sermon | Not one stroke of the law | 5:17-20 | | 16:17 |
+anger | sermon | On anger and reconciliation | 5:21-26 | | 12:57-59 |
+adultery | sermon | On adultery | 5:27-30 | | |
+divorce-sermon | sermon | On divorce (sermon) | 5:31-32 | | 16:18 |
+oaths | sermon | On oaths | 5:33-37 | | |
+love-enemies | sermon | Love your enemies; the Golden Rule | 5:38-48;7:12 | | 6:27-36 |
+almsgiving | sermon | On almsgiving | 6:1-4 | | |
+lords-prayer | sermon | The Lord's Prayer | 6:5-15 | | 11:1-4 |
+fasting-sermon | sermon | On fasting | 6:16-18 | | |
+treasures | sermon | Treasure in heaven | 6:19-21 | | 12:33-34 |
+sound-eye | sermon | The lamp of the body | 6:22-23 | | 11:33-36 |
+two-masters | sermon | God and wealth | 6:24 | | 16:13 |
+anxiety | sermon | Do not worry | 6:25-34 | | 12:22-32 |
+judging | sermon | Judge not | 7:1-5 | | 6:37-42 |
+pearls | sermon | Pearls before swine | 7:6 | | |
+ask-seek | sermon | Ask, seek, knock | 7:7-11 | | 11:5-13 |
+narrow-gate | sermon | The narrow gate | 7:13-14 | | 13:22-30 |
+by-fruits | sermon | Known by their fruits | 7:15-20 | | 6:43-45 |
+lord-lord | sermon | Not everyone who says "Lord, Lord" | 7:21-23 | | 6:46 |
+two-builders | sermon | The two builders | 7:24-27 | | 6:47-49 |
+centurion | galilee | The centurion's servant (and the official's son) | 8:5-13 | | 7:1-10 | 4:46-54
+widow-nain | galilee | The widow's son at Nain | | | 7:11-17 |
+would-be-followers | galilee | Would-be followers | 8:18-22 | | 9:57-62 |
+storm | galilee | Stilling the storm | 8:23-27 | 4:35-41 | 8:22-25 |
+gerasene | galilee | The Gerasene demoniac | 8:28-34 | 5:1-20 | 8:26-39 |
+jairus | galilee | Jairus' daughter and the woman who touched his cloak | 9:18-26 | 5:21-43 | 8:40-56 |
+two-blind-men | galilee | Two blind men | 9:27-31 | | |
+mute-demoniac | galilee | A mute demoniac | 9:32-34 | | |
+mission | galilee | Sending out the Twelve (and the Seventy) | 9:35-38;10:5-16 | 6:7-13 | 9:1-6;10:1-12 |
+persecutions | galilee | Coming persecutions | 10:17-25 | | 12:11-12 |
+fearless-confession | galilee | Do not fear them | 10:26-33 | | 12:2-9 |
+not-peace | galilee | Not peace but a sword | 10:34-36 | | 12:49-53 |
+cost-discipleship | galilee | The cost of discipleship | 10:37-39 | | 14:25-33 |
+rewards | galilee | Whoever receives you | 10:40-11:1 | | 10:16 |
+baptist-question | galilee | John's question from prison | 11:2-6 | | 7:18-23 |
+testimony-john | galilee | Jesus' verdict on John | 11:7-19 | | 7:24-35;16:16 |
+woes-cities | galilee | Woe to Chorazin and Bethsaida | 11:20-24 | | 10:13-15 |
+thanksgiving | galilee | Hidden from the wise; come to me | 11:25-30 | | 10:21-22 |
+sinful-woman | galilee | The sinful woman who anoints Jesus | | | 7:36-50 |
+ministering-women | galilee | The women who supported Jesus | | | 8:1-3 |
+beelzebul | galilee | The Beelzebul controversy | 12:22-37 | 3:20-30 | 11:14-23;12:10 |
+unclean-spirit-return | galilee | The return of the unclean spirit | 12:43-45 | | 11:24-26 |
+true-blessedness | galilee | Blessed is the womb | | | 11:27-28 |
+sign-jonah | galilee | The sign of Jonah | 12:38-42 | | 11:29-32 |
+true-family | galilee | Jesus' true family | 12:46-50 | 3:31-35 | 8:19-21 |
+sower | parables | The parable of the sower | 13:1-9 | 4:1-9 | 8:4-8 |
+why-parables | parables | Why speak in parables? | 13:10-17 | 4:10-12 | 8:9-10;10:23-24 |
+sower-explained | parables | The sower explained | 13:18-23 | 4:13-20 | 8:11-15 |
+lamp-measure | parables | The lamp and the measure | | 4:21-25 | 8:16-18 |
+seed-growing | parables | The seed growing secretly | | 4:26-29 | |
+wheat-tares | parables | Wheat and weeds | 13:24-30 | | |
+mustard-seed | parables | The mustard seed | 13:31-32 | 4:30-32 | 13:18-19 |
+leaven | parables | The leaven | 13:33 | | 13:20-21 |
+parables-use | parables | He spoke only in parables | 13:34-35 | 4:33-34 | |
+tares-explained | parables | Wheat and weeds explained | 13:36-43 | | |
+treasure-pearl-net | parables | Treasure, pearl, net | 13:44-52 | | |
+herod-thinks | galilee | Herod thinks John has risen | 14:1-2 | 6:14-16 | 9:7-9 |
+baptist-death | galilee | The imprisonment and death of John | 14:3-12 | 6:17-29 | 3:19-20 |
+feeding-5000 | galilee | Feeding the five thousand | 14:13-21 | 6:30-44 | 9:10-17 | 6:1-15
+walking-water | galilee | Walking on the water | 14:22-33 | 6:45-52 | | 6:16-21
+gennesaret | galilee | Healings at Gennesaret | 14:34-36 | 6:53-56 | |
+bread-of-life | john | I am the bread of life | | | | 6:22-65
+defilement | galilee | What defiles a person | 15:1-20 | 7:1-23 | |
+syrophoenician | galilee | The Canaanite / Syrophoenician woman | 15:21-28 | 7:24-30 | |
+deaf-mute | galilee | Healing by the sea of Galilee | 15:29-31 | 7:31-37 | |
+feeding-4000 | galilee | Feeding the four thousand | 15:32-39 | 8:1-10 | |
+demand-sign | galilee | A demand for a sign | 16:1-4 | 8:11-13 | 12:54-56 |
+leaven-pharisees | galilee | The leaven of the Pharisees | 16:5-12 | 8:14-21 | 12:1 |
+blind-bethsaida | galilee | The blind man of Bethsaida | | 8:22-26 | |
+peter-confession | turning | Peter's confession | 16:13-20 | 8:27-30 | 9:18-21 | 6:66-71
+passion-prediction-1 | turning | First passion prediction | 16:21-23 | 8:31-33 | 9:22 |
+take-up-cross | turning | Take up your cross | 16:24-28 | 8:34-9:1 | 9:23-27 |
+transfiguration | turning | The transfiguration | 17:1-9 | 9:2-10 | 9:28-36 |
+elijah | turning | The coming of Elijah | 17:10-13 | 9:11-13 | |
+epileptic-boy | turning | The boy with an unclean spirit | 17:14-21 | 9:14-29 | 9:37-43 |
+passion-prediction-2 | turning | Second passion prediction | 17:22-23 | 9:30-32 | 9:44-45 |
+temple-tax | turning | The coin in the fish's mouth | 17:24-27 | | |
+greatest | turning | Who is the greatest? | 18:1-5 | 9:33-37 | 9:46-48 |
+strange-exorcist | turning | The strange exorcist | | 9:38-41 | 9:49-50 |
+stumbling | turning | Causing little ones to stumble | 18:6-9 | 9:42-48 | 17:1-2 |
+lost-sheep | turning | The lost sheep | 18:10-14 | | 15:1-7 |
+forgive-brother | turning | Reproof and forgiveness | 18:15-22 | | 17:3-4 |
+unmerciful-servant | turning | The unmerciful servant | 18:23-35 | | |
+samaritan-rejection | journey | A Samaritan village refuses him | | | 9:51-56 |
+seventy-return | journey | The return of the Seventy | | | 10:17-20 |
+great-commandment | journey | The great commandment | 22:34-40 | 12:28-34 | 10:25-28 |
+good-samaritan | journey | The good Samaritan | | | 10:29-37 |
+martha-mary | journey | Martha and Mary | | | 10:38-42 |
+woes-pharisees | journey | Woes against scribes and Pharisees | 23:1-36 | 12:38-40 | 11:37-54;20:45-47 |
+rich-fool | journey | The rich fool | | | 12:13-21 |
+watchfulness | journey | Stay awake: the faithful servant | 24:42-51 | 13:33-37 | 12:35-48;21:34-36 |
+repent-perish | journey | Repent or perish; the barren fig tree | | | 13:1-9 |
+crippled-woman | journey | A woman bent double | | | 13:10-17 |
+jerusalem-lament | journey | O Jerusalem, Jerusalem | 23:37-39 | | 13:31-35 |
+dropsy | journey | A man with dropsy | | | 14:1-6 |
+places-table | journey | Places at the table | | | 14:7-14 |
+great-banquet | journey | The great banquet | 22:1-14 | | 14:15-24 |
+lost-coin-son | journey | The lost coin and the prodigal son | | | 15:8-32 |
+unjust-steward | journey | The shrewd manager | | | 16:1-12 |
+lovers-money | journey | Lovers of money | | | 16:14-15 |
+rich-man-lazarus | journey | The rich man and Lazarus | | | 16:19-31 |
+unworthy-servants | journey | Faith and duty | | | 17:5-10 |
+ten-lepers | journey | Ten lepers | | | 17:11-19 |
+unjust-judge | journey | The widow and the unjust judge | | | 18:1-8 |
+pharisee-publican | journey | The Pharisee and the tax collector | | | 18:9-14 |
+divorce | journey | On divorce | 19:1-12 | 10:1-12 | |
+children | journey | Let the children come to me | 19:13-15 | 10:13-16 | 18:15-17 |
+rich-young-man | journey | The rich young man | 19:16-30 | 10:17-31 | 18:18-30 |
+vineyard-laborers | journey | Workers in the vineyard | 20:1-16 | | |
+passion-prediction-3 | journey | Third passion prediction | 20:17-19 | 10:32-34 | 18:31-34 |
+james-john | journey | Who will sit at your right hand? | 20:20-28 | 10:35-45 | 22:24-30 |
+bartimaeus | journey | Blind Bartimaeus | 20:29-34 | 10:46-52 | 18:35-43 |
+zacchaeus | journey | Zacchaeus | | | 19:1-10 |
+talents | journey | The talents / the pounds | 25:14-30 | | 19:11-27 |
+bethesda | john | Healing at the pool of Bethesda | | | | 5:1-18
+son-authority | john | The authority of the Son | | | | 5:19-47
+tabernacles-brothers | john | Going up to the Feast of Tabernacles | | | | 7:1-13
+tabernacles-teaching | john | Teaching at the Feast | | | | 7:14-52
+adulteress | john | The woman caught in adultery | | | | 7:53-8:11
+light-world | john | I am the light of the world | | | | 8:12-59
+man-born-blind | john | The man born blind | | | | 9:1-41
+good-shepherd | john | I am the good shepherd | | | | 10:1-21
+dedication | john | At the Feast of Dedication | | | | 10:22-42
+lazarus | john | The raising of Lazarus | | | | 11:1-44
+plot | jerusalem | The plot to kill Jesus | 26:1-5 | 14:1-2 | 22:1-2 | 11:45-57
+anointing | jerusalem | The anointing at Bethany | 26:6-13 | 14:3-9 | | 12:1-8
+plot-lazarus | jerusalem | A plot against Lazarus | | | | 12:9-11
+triumphal-entry | jerusalem | The entry into Jerusalem | 21:1-11 | 11:1-11 | 19:28-40 | 12:12-19
+weeping-jerusalem | jerusalem | Jesus weeps over Jerusalem | | | 19:41-44 |
+greeks-hour | jerusalem | The Greeks, and the hour has come | | | | 12:20-36
+unbelief | jerusalem | The unbelief of the people | | | | 12:37-50
+fig-cursed | jerusalem | The fig tree cursed | 21:18-19 | 11:12-14 | |
+temple-cleansing | jerusalem | The cleansing of the temple | 21:12-17 | 11:15-19 | 19:45-48 | 2:13-22
+fig-withered | jerusalem | The fig tree withered | 21:20-22 | 11:20-26 | |
+authority-question | jerusalem | By what authority? | 21:23-27 | 11:27-33 | 20:1-8 |
+two-sons | jerusalem | The two sons | 21:28-32 | | |
+wicked-tenants | jerusalem | The wicked tenants | 21:33-46 | 12:1-12 | 20:9-19 |
+caesar | jerusalem | Taxes to Caesar | 22:15-22 | 12:13-17 | 20:20-26 |
+sadducees | jerusalem | The Sadducees and the resurrection | 22:23-33 | 12:18-27 | 20:27-40 |
+davids-son | jerusalem | Whose son is the Messiah? | 22:41-46 | 12:35-37 | 20:41-44 |
+widows-mite | jerusalem | The widow's offering | | 12:41-44 | 21:1-4 |
+apoc-signs | discourse | The temple's destruction and the signs of the end | 24:1-8 | 13:1-8 | 21:5-11 |
+apoc-persecution | discourse | Persecution foretold | 24:9-14 | 13:9-13 | 21:12-19 |
+apoc-desolation | discourse | The desolating sacrilege | 24:15-22 | 13:14-20 | 21:20-24 |
+apoc-false-messiahs | discourse | False messiahs and the day of the Son of Man | 24:23-28;24:37-41 | 13:21-23 | 17:20-37 |
+apoc-son-of-man | discourse | The coming of the Son of Man | 24:29-31 | 13:24-27 | 21:25-28 |
+apoc-fig-tree | discourse | The lesson of the fig tree | 24:32-36 | 13:28-32 | 21:29-33 |
+temple-teaching | discourse | Teaching daily in the temple | | | 21:37-38 |
+ten-virgins | discourse | The ten bridesmaids | 25:1-13 | | |
+last-judgment | discourse | The sheep and the goats | 25:31-46 | | |
+judas-bargain | passion | Judas agrees to betray Jesus | 26:14-16 | 14:10-11 | 22:3-6 |
+passover-prep | passion | Preparing the Passover | 26:17-19 | 14:12-16 | 22:7-13 |
+foot-washing | passion | Jesus washes the disciples' feet | | | | 13:1-20
+betrayer | passion | One of you will betray me | 26:20-25 | 14:17-21 | 22:14;22:21-23 | 13:21-30
+last-supper | passion | The bread and the cup | 26:26-29 | 14:22-25 | 22:15-20 |
+denial-foretold | passion | Peter's denial foretold | 26:30-35 | 14:26-31 | 22:31-34 | 13:31-38
+two-swords | passion | Two swords | | | 22:35-38 |
+farewell-1 | john | I am the way (farewell discourse I) | | | | 14:1-31
+farewell-2 | john | I am the vine (farewell discourse II) | | | | 15:1-16:4
+farewell-3 | john | The Spirit and the coming joy (farewell discourse III) | | | | 16:5-33
+high-priestly-prayer | john | The prayer of Jesus | | | | 17:1-26
+gethsemane | passion | Gethsemane | 26:36-46 | 14:32-42 | 22:39-46 | 18:1
+arrest | passion | The arrest | 26:47-56 | 14:43-52 | 22:47-53 | 18:2-12
+sanhedrin | passion | Before the high priest | 26:57-68 | 14:53-65 | 22:63-71 | 18:13-14;18:19-24
+peter-denial | passion | Peter's denial | 26:69-75 | 14:66-72 | 22:54-62 | 18:15-18;18:25-27
+to-pilate | passion | Handed over to Pilate | 27:1-2 | 15:1 | 23:1 | 18:28
+judas-death | passion | The death of Judas | 27:3-10 | | |
+pilate-trial | passion | Are you the king of the Jews? | 27:11-14 | 15:2-5 | 23:2-5 | 18:29-38
+herod-trial | passion | Jesus before Herod | | | 23:6-16 |
+barabbas | passion | Barabbas, and the sentence | 27:15-26 | 15:6-15 | 23:17-25 | 18:39-19:16
+soldiers-mock | passion | The soldiers mock Jesus | 27:27-31 | 15:16-20 | |
+road-golgotha | passion | The road to Golgotha | 27:32 | 15:21 | 23:26-32 |
+crucifixion | passion | The crucifixion | 27:33-44 | 15:22-32 | 23:33-43 | 19:17-27
+death | passion | The death of Jesus | 27:45-56 | 15:33-41 | 23:44-49 | 19:28-37
+burial | passion | The burial | 27:57-61 | 15:42-47 | 23:50-56 | 19:38-42
+tomb-guard | passion | The guard at the tomb | 27:62-66 | | |
+empty-tomb | resurrection | The empty tomb | 28:1-8 | 16:1-8 | 24:1-12 | 20:1-10
+appearance-women | resurrection | Jesus appears to the women / to Mary Magdalene | 28:9-10 | 16:9-11 | | 20:11-18
+guard-report | resurrection | The guards' report | 28:11-15 | | |
+emmaus | resurrection | The road to Emmaus | | 16:12-13 | 24:13-35 |
+appearance-eleven | resurrection | Appearance to the disciples and the commission | 28:16-20 | 16:14-18 | 24:36-49 | 20:19-23
+thomas | resurrection | Doubting Thomas | | | | 20:24-29
+john-purpose | resurrection | That you may believe | | | | 20:30-31
+ascension | resurrection | The ascension | | 16:19-20 | 24:50-53 |
+peter-restored | resurrection | Do you love me? | | | | 21:15-23
+john-epilogue | resurrection | The beloved disciple's testimony | | | | 21:24-25
