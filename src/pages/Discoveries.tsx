@@ -18,7 +18,7 @@ export default function Discoveries() {
       </section>
       <div style={{ display: 'grid', gap: 18 }}>
         {notes.discoveries.map((d, i) => (
-          <article key={d.id} className="card" style={{ padding: 24, display: 'grid', gap: 10 }}>
+          <article key={d.id} className="card disc-ai" style={{ padding: 24, display: 'grid', gap: 10 }}>
             <div style={{ display: 'flex', gap: 10, alignItems: 'center', flexWrap: 'wrap' }}>
               <span className="disc-num">{i + 1}</span>
               <span className="eyebrow" style={{ fontSize: 11 }}>{d.kind}</span>

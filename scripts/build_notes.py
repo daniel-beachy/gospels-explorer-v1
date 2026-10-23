@@ -1,7 +1,8 @@
 """Compile the AI-written notes into public/data/notes.json.
 
 Sources (all written by Claude Opus 5.5, see data/ai/BRIEF.md):
-  data/ai/notes/*.json        per-unit short notes and deep readings
+  data/ai/notes/*.json        per-unit short notes  [{id, note}]
+  data/ai/deep/*.json         deep readings         [{id, deep: {lede, sections}}]
   data/ai/discoveries.json    the map's discovery pins
   data/ai/gospels.json        one portrait paragraph per Gospel (fingerprints page)
 
@@ -75,12 +76,17 @@ def main():
             u = unit_for(n["id"])
             if u is None:
                 errors.append(f"{f.name}: unknown unit {n['id']}"); continue
-            deep = None
-            if n.get("deep"):
-                deep = {"lede": rich(n["deep"]["lede"], n["id"], u),
-                        "sections": [{"heading": s["heading"], "body": rich(s["body"], n["id"], u)}
-                                     for s in n["deep"]["sections"]]}
-            notes[n["id"]] = {"id": n["id"], "note": rich(n["note"], n["id"], u), "deep": deep}
+            notes[n["id"]] = {"id": n["id"], "note": rich(n["note"], n["id"], u), "deep": None}
+    # deep readings live in data/ai/deep/*.json as [{id, deep: {lede, sections}}]
+    for f in sorted((AI / "deep").glob("*.json")):
+        for n in json.loads(f.read_text()):
+            u = unit_for(n["id"])
+            if n["id"] not in notes:
+                errors.append(f"{f.name}: deep reading for {n['id']} has no short note"); continue
+            d = n["deep"]
+            notes[n["id"]]["deep"] = {"lede": rich(d["lede"], n["id"], u),
+                                      "sections": [{"heading": s["heading"], "body": rich(s["body"], n["id"], u)}
+                                                   for s in d["sections"]]}
     discoveries = []
     p = AI / "discoveries.json"
     if p.exists():

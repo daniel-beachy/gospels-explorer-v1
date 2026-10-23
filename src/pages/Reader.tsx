@@ -49,7 +49,7 @@ export default function Reader({ g, ch, v }: { g: G; ch: number; v: string | nul
           ))}
         </div>
       </div>
-      <div className="controls" style={{ marginLeft: -24, marginRight: -24, paddingLeft: 24, paddingRight: 24 }}>
+      <div className="controls bleed">
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px 16px', alignItems: 'center' }}>
           <div className="seg">
             <button className={view === 'english' ? 'on' : ''} onClick={() => setView('english')}>English</button>
