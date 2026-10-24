@@ -19,10 +19,24 @@ export default function About() {
         <table>
           <tbody>
             <tr><td style={{ width: 150 }}><DataBadge /></td><td>Computed by code directly from the Greek text: alignments, colors, percentages, word counts, minor agreements, signature words, variant flags. Deterministic and reproducible from the build scripts.</td></tr>
-            <tr><td><SchBadge /></td><td>Standard summaries of mainstream scholarship, written to reflect the consensus (or the debate, where there is one): the source-theory lenses and the major textual variants.</td></tr>
+            <tr><td><SchBadge /></td><td>Standard summaries of mainstream scholarship, written to reflect the consensus (or the debate, where there is one): the source-theory lenses and the major textual variants. This is the mainstream academic view, which is not the same as settled fact.</td></tr>
             <tr><td><AIBadge label="AI" /></td><td>Interpretation written by Claude Opus 5.5, an AI model: the passage notes, deep readings, discoveries and Gospel portraits. Always shown on an indigo background.</td></tr>
           </tbody>
         </table>
+
+        <h2>What this site is for, and what it isn't</h2>
+        <p>
+          Gospels Explorer is a tool for examining the Greek texts and how the four Gospels relate to each other.
+          It is not an argument about whether their story is true. The data layer shows what the texts say and how
+          they overlap. The interpretive layers report how scholars read them.
+        </p>
+        <p>
+          "Scholarly consensus" means what most academic specialists currently think. It is a description of the
+          field, not a verdict on history or faith. Consensus has changed before, and many careful scholars dissent
+          from it. Where an interpretation depends on historical-critical assumptions (for example, that an evangelist
+          adapted a story rather than recording a separate event), the site tries to name the traditional reading as
+          well. Readers of any conviction, or none, should be able to use it.
+        </p>
 
         <h2>The data</h2>
         <ul>
