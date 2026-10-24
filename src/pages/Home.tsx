@@ -20,7 +20,7 @@ export default function Home() {
     <>
       <section className="wrap hero">
         <div className="eyebrow">Matthew · Mark · Luke · John, in Greek</div>
-        <h1 style={{ marginTop: 14 }}>One story, told four ways. <em>See who copied whom.</em></h1>
+        <h1 style={{ marginTop: 14 }}>Four Gospels, one story. <em>See how they fit together.</em></h1>
         <p className="lede">
           The four Gospels were written in Greek, and three of them share whole paragraphs word for word.
           In English you can't see the borrowing, the editing or the rearranging. This map shows it. Each bar is a
