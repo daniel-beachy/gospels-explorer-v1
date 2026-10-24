@@ -70,6 +70,7 @@ export default function App() {
               const active = href.split('/')[0] === section
               return <a key={href} href={`#/${href}`} className={active ? 'active' : ''}>{label}</a>
             })}
+            <a className="nav-ext" href="https://daniel-beachy.github.io/" title="More projects by Daniel Beachy">More projects ↗</a>
           </nav>
           <ThemeToggle />
         </div>

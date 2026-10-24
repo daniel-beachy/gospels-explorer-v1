@@ -94,18 +94,20 @@ button { font: inherit; color: inherit; }
 }
 .nav a:hover { background: var(--surface-2); color: var(--ink); }
 .nav a.active { color: var(--ink); background: var(--surface-2); }
+.nav a.nav-ext { margin-left: 6px; white-space: nowrap; }
 .icon-btn {
   border: 1px solid var(--rule); background: var(--surface); border-radius: 8px;
   width: 34px; height: 34px; display: grid; place-items: center; cursor: pointer; flex: none;
 }
 .icon-btn:hover { border-color: var(--rule-strong); }
 .menu-btn { display: none; }
-@media (max-width: 860px) {
+@media (max-width: 980px) {
   .menu-btn { display: grid; margin-left: auto; }
   .nav { display: none; position: absolute; top: 58px; left: 0; right: 0; flex-direction: column;
     align-items: stretch; background: var(--surface); border-bottom: 1px solid var(--rule); padding: 8px 16px 14px; }
   .nav.open { display: flex; }
   .nav a { padding: 10px 12px; font-size: 16px; }
+  .nav a.nav-ext { margin: 6px 0 0; border-top: 1px solid var(--rule); border-radius: 0; }
 }
 
 /* ---------- provenance badges ---------- */
